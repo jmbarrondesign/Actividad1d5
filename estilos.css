@@ -1,0 +1,28 @@
+
+
+#imagen1{
+    margin-top: 500px;
+    transform: rotate(45deg);
+}
+
+
+#imagen2{
+    margin-left: 200px;
+    transition: linear 5s;
+}
+
+#imagen2:hover{
+
+    transform: scale(2);
+}
+
+#imagen3{
+
+    margin-left: 200px;
+    transition: ease 2s;
+
+}
+
+#imagen3:hover{
+    transform:rotatex(180deg) ;
+}
